@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jUe0UVYXm6OYv2cM163lY2vmPDm4t8Huxp430GfQJGBZz+5M606dHK1suUWta1hvLo2L4XlYdFvKLZ8fBoItw==",
+  "success": true,
+  "projectFilePath": "/workspaces/codespaces-blank/StyleCopDemo/StyleCopDemo.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/stylecop.analyzers/1.2.0-beta.507/stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "/home/vscode/.nuget/packages/stylecop.analyzers.unstable/1.2.0.507/stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+  ],
+  "logs": []
+}

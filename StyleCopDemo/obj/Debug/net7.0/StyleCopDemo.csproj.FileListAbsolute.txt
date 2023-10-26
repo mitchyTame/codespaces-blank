@@ -1,0 +1,16 @@
+/workspaces/codespaces-blank/StyleCopDemo/bin/Debug/net7.0/StyleCopDemo
+/workspaces/codespaces-blank/StyleCopDemo/bin/Debug/net7.0/StyleCopDemo.deps.json
+/workspaces/codespaces-blank/StyleCopDemo/bin/Debug/net7.0/StyleCopDemo.runtimeconfig.json
+/workspaces/codespaces-blank/StyleCopDemo/bin/Debug/net7.0/StyleCopDemo.dll
+/workspaces/codespaces-blank/StyleCopDemo/bin/Debug/net7.0/StyleCopDemo.pdb
+/workspaces/codespaces-blank/StyleCopDemo/bin/Debug/net7.0/StyleCopDemo.xml
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/StyleCopDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/StyleCopDemo.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/StyleCopDemo.AssemblyInfo.cs
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/StyleCopDemo.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/StyleCopDemo.dll
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/refint/StyleCopDemo.dll
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/StyleCopDemo.xml
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/StyleCopDemo.pdb
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/StyleCopDemo.genruntimeconfig.cache
+/workspaces/codespaces-blank/StyleCopDemo/obj/Debug/net7.0/ref/StyleCopDemo.dll

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StyleCopDemo</name>
+    </assembly>
+    <members>
+        <member name="T:StyleCopDemo.Program">
+            <summary>
+            Main entry into the app.
+            </summary>
+        </member>
+        <member name="M:StyleCopDemo.Program.Main(System.String[])">
+            <summary>
+            The main entry point for the app.
+            </summary>
+            <param name="args">
+            A string array of the arguments.
+            </param>
+        </member>
+    </members>
+</doc>
