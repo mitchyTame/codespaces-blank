@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/bin/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.deps.json
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/bin/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/bin/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.dll
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/bin/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.pdb
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.dll
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/refint/Northwind.Common.EntityModels.SqlServer.dll
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.pdb
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.EntityModels.SqlServer/obj/Debug/net7.0/ref/Northwind.Common.EntityModels.SqlServer.dll

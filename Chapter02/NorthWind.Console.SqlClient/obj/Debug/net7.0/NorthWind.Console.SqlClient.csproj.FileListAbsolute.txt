@@ -48,3 +48,4 @@
 /workspaces/codespaces-blank/Chapter02/NorthWind.Console.SqlClient/obj/Debug/net7.0/NorthWind.Console.SqlClient.pdb
 /workspaces/codespaces-blank/Chapter02/NorthWind.Console.SqlClient/obj/Debug/net7.0/NorthWind.Console.SqlClient.genruntimeconfig.cache
 /workspaces/codespaces-blank/Chapter02/NorthWind.Console.SqlClient/obj/Debug/net7.0/ref/NorthWind.Console.SqlClient.dll
+/workspaces/codespaces-blank/Chapter02/NorthWind.Console.SqlClient/bin/Debug/net7.0/Dapper.dll

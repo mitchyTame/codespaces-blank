@@ -1,0 +1,17 @@
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/bin/Debug/net7.0/Northwind.Common.DataContext.SqlServer.deps.json
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/bin/Debug/net7.0/Northwind.Common.DataContext.SqlServer.runtimeconfig.json
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/bin/Debug/net7.0/Northwind.Common.DataContext.SqlServer.dll
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/bin/Debug/net7.0/Northwind.Common.DataContext.SqlServer.pdb
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/bin/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.dll
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/bin/Debug/net7.0/Northwind.Common.EntityModels.SqlServer.pdb
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.csproj.CopyComplete
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.dll
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/refint/Northwind.Common.DataContext.SqlServer.dll
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.pdb
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/Northwind.Common.DataContext.SqlServer.genruntimeconfig.cache
+/workspaces/codespaces-blank/Chapter02/Northwind.Common.DataContext.SqlServer/obj/Debug/net7.0/ref/Northwind.Common.DataContext.SqlServer.dll

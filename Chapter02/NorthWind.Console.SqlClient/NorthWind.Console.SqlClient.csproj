@@ -8,8 +8,9 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1"/>
+    <PackageReference Include="Dapper" Version="2.1.15"/>
   </ItemGroup>
   <ItemGroup>
-    <Using Include="System.Console" Static="true" />
+    <Using Include="System.Console" Static="true"/>
   </ItemGroup>
 </Project>

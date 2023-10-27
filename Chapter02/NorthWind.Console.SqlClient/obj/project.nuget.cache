@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JhEuw5yKTAvlhNKheeWEg3sHHlBpLfCn2No967HUpfiMuKz1gZGfKWW1mv0p1a+33+6GTXSdz3tVx4w+Au9RdA==",
+  "dgSpecHash": "uhuOpFMFEGXoFQ6fwAA9NSf70wssnGdFNIRwp5Nn911pkGAvzKkPpIH4G7DIO0il13rslBsHAYTx55kbUMToSQ==",
   "success": true,
   "projectFilePath": "/workspaces/codespaces-blank/Chapter02/NorthWind.Console.SqlClient/NorthWind.Console.SqlClient.csproj",
   "expectedPackageFiles": [
     "/home/vscode/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/home/vscode/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
     "/home/vscode/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/home/vscode/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/vscode/.nuget/packages/microsoft.data.sqlclient/5.1.1/microsoft.data.sqlclient.5.1.1.nupkg.sha512",

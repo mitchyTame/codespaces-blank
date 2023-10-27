@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Data;
+using Dapper;
 using Microsoft.Data.SqlClient;
+using NorthWind.Console.SqlClient;
 
 SqlConnectionStringBuilder builder = new();
 
@@ -184,7 +186,20 @@ await r.CloseAsync();
 WriteLine($"Output count: {p2.Value}");
 WriteLine($"Return value: {p3.Value}");
 
+IEnumerable<Supplier> suppliers = connection.Query<Supplier>(
+    sql: "Select * From suppliers where Country=@Country",
+    param: new {Country = "Germany"});
+
+foreach(Supplier supplier in suppliers)
+{
+    WriteLine("{0}, {1}, {2}, {3}",
+    supplier.SupplierId, supplier.CompanyName, supplier.City, supplier.Country
+    );
+}
+
 await connection.CloseAsync();
+
+
 
 
 partial class Program
@@ -201,6 +216,8 @@ partial class Program
     static void Connection_InfoMessage(object sender, SqlInfoMessageEventArgs e)
     {
         ConsoleColor previousColor = ForegroundColor;
+        ForegroundColor = ConsoleColor.DarkRed;
+
         WriteLine($"Info: {e.Message}");
         foreach (SqlError error in e.Errors)
         {
