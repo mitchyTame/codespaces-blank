@@ -1,0 +1,11 @@
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/bin/Debug/net7.0/MonitoringLib.deps.json
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/bin/Debug/net7.0/MonitoringLib.dll
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/bin/Debug/net7.0/MonitoringLib.pdb
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/obj/Debug/net7.0/MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/obj/Debug/net7.0/MonitoringLib.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/obj/Debug/net7.0/MonitoringLib.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/obj/Debug/net7.0/MonitoringLib.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/obj/Debug/net7.0/MonitoringLib.dll
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/obj/Debug/net7.0/refint/MonitoringLib.dll
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/obj/Debug/net7.0/MonitoringLib.pdb
+/workspaces/codespaces-blank/Chapter04/MonitoringLib/obj/Debug/net7.0/ref/MonitoringLib.dll

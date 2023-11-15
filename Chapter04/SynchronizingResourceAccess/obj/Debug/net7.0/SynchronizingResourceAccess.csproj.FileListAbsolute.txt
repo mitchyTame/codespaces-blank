@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/bin/Debug/net7.0/SynchronizingResourceAccess
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/bin/Debug/net7.0/SynchronizingResourceAccess.deps.json
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/bin/Debug/net7.0/SynchronizingResourceAccess.runtimeconfig.json
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/bin/Debug/net7.0/SynchronizingResourceAccess.dll
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/bin/Debug/net7.0/SynchronizingResourceAccess.pdb
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/SynchronizingResourceAccess.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/SynchronizingResourceAccess.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/SynchronizingResourceAccess.dll
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/refint/SynchronizingResourceAccess.dll
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/SynchronizingResourceAccess.pdb
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/SynchronizingResourceAccess.genruntimeconfig.cache
+/workspaces/codespaces-blank/Chapter04/SynchronizingResourceAccess/obj/Debug/net7.0/ref/SynchronizingResourceAccess.dll

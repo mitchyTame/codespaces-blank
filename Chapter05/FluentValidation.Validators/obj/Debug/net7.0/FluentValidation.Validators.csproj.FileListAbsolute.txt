@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/bin/Debug/net7.0/FluentValidation.Validators.deps.json
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/bin/Debug/net7.0/FluentValidation.Validators.dll
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/bin/Debug/net7.0/FluentValidation.Validators.pdb
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/bin/Debug/net7.0/FluentValidation.Models.dll
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/bin/Debug/net7.0/FluentValidation.Models.pdb
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/FluentValidation.Validators.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/FluentValidation.Validators.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/FluentValidation.Validators.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/FluentValidation.Validators.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/FluentValidation.Validators.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/FluentValidation.Validators.csproj.CopyComplete
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/FluentValidation.Validators.dll
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/refint/FluentValidation.Validators.dll
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/FluentValidation.Validators.pdb
+/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/obj/Debug/net7.0/ref/FluentValidation.Validators.dll

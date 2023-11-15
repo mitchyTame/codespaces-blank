@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "FluentValidation/11.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "FluentValidation": "11.8.0"
+        },
+        "compile": {
+          "bin/placeholder/FluentValidation.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FluentValidation.Models.dll": {}
+        }
+      },
+      "FluentValidation.Validators/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "FluentValidation": "11.8.0",
+          "FluentValidation.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FluentValidation.Validators.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FluentValidation.Validators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/11.8.0": {
+      "sha512": "TiEaaYqSIAS+wXQv46LRm8Mca092XYNePD0n231Hqlkmm5FuToZoWnjI1ef/vJUxBzqR7/k2vaVQXxijNgVKRQ==",
+      "type": "package",
+      "path": "fluentvalidation/11.8.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.8.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.dll"
+      ]
+    },
+    "FluentValidation.Models/1.0.0": {
+      "type": "project",
+      "path": "../FluidValidation.Models/FluentValidation.Models.csproj",
+      "msbuildProject": "../FluidValidation.Models/FluentValidation.Models.csproj"
+    },
+    "FluentValidation.Validators/1.0.0": {
+      "type": "project",
+      "path": "../FluentValidation.Validators/FluentValidation.Validators.csproj",
+      "msbuildProject": "../FluentValidation.Validators/FluentValidation.Validators.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "FluentValidation.Models >= 1.0.0",
+      "FluentValidation.Validators >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/vscode/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/workspaces/codespaces-blank/Chapter05/FluentValidations.App/FluentValidations.App.csproj",
+      "projectName": "FluentValidations.App",
+      "projectPath": "/workspaces/codespaces-blank/Chapter05/FluentValidations.App/FluentValidations.App.csproj",
+      "packagesPath": "/home/vscode/.nuget/packages/",
+      "outputPath": "/workspaces/codespaces-blank/Chapter05/FluentValidations.App/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/vscode/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/FluentValidation.Validators.csproj": {
+              "projectPath": "/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/FluentValidation.Validators.csproj"
+            },
+            "/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/FluentValidation.Models.csproj": {
+              "projectPath": "/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/FluentValidation.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

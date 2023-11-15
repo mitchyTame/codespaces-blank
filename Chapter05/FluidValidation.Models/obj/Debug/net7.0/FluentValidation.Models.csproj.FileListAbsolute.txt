@@ -1,0 +1,12 @@
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/bin/Debug/net7.0/FluentValidation.Models.deps.json
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/bin/Debug/net7.0/FluentValidation.Models.dll
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/bin/Debug/net7.0/FluentValidation.Models.pdb
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluentValidation.Models.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluentValidation.Models.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluentValidation.Models.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluentValidation.Models.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluentValidation.Models.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluentValidation.Models.dll
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/refint/FluentValidation.Models.dll
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluentValidation.Models.pdb
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/ref/FluentValidation.Models.dll

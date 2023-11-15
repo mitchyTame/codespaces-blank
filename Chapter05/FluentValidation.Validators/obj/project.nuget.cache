@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHtoohOxxaVnExN5TiWaHEr7MwQDLAJvM7QrJ+BVjMYWsykSemgSda0YkN4zRMMJB8gBo0gXRsaFI/xlsSKpTA==",
+  "success": true,
+  "projectFilePath": "/workspaces/codespaces-blank/Chapter05/FluentValidation.Validators/FluentValidation.Validators.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/bin/Debug/net7.0/WorkingWithTasks
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/bin/Debug/net7.0/WorkingWithTasks.deps.json
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/bin/Debug/net7.0/WorkingWithTasks.runtimeconfig.json
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/bin/Debug/net7.0/WorkingWithTasks.dll
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/bin/Debug/net7.0/WorkingWithTasks.pdb
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/WorkingWithTasks.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/WorkingWithTasks.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/WorkingWithTasks.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/WorkingWithTasks.dll
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/refint/WorkingWithTasks.dll
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/WorkingWithTasks.pdb
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/WorkingWithTasks.genruntimeconfig.cache
+/workspaces/codespaces-blank/Chapter04/WorkingWithTasks/obj/Debug/net7.0/ref/WorkingWithTasks.dll

@@ -1,0 +1,11 @@
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/bin/Debug/net7.0/FluidValidation.Models.deps.json
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/bin/Debug/net7.0/FluidValidation.Models.dll
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/bin/Debug/net7.0/FluidValidation.Models.pdb
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluidValidation.Models.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluidValidation.Models.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluidValidation.Models.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluidValidation.Models.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluidValidation.Models.dll
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/refint/FluidValidation.Models.dll
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/FluidValidation.Models.pdb
+/workspaces/codespaces-blank/Chapter05/FluidValidation.Models/obj/Debug/net7.0/ref/FluidValidation.Models.dll

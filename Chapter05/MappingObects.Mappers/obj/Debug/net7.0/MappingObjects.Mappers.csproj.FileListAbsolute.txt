@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/bin/Debug/net7.0/MappingObjects.Mappers.deps.json
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/bin/Debug/net7.0/MappingObjects.Mappers.dll
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/bin/Debug/net7.0/MappingObjects.Mappers.pdb
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/bin/Debug/net7.0/MappingObjects.Models.dll
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/bin/Debug/net7.0/MappingObjects.Models.pdb
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/MappingObjects.Mappers.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/MappingObjects.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/MappingObjects.Mappers.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/MappingObjects.Mappers.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/MappingObjects.Mappers.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/MappingObjects.Mappers.csproj.CopyComplete
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/MappingObjects.Mappers.dll
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/refint/MappingObjects.Mappers.dll
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/MappingObjects.Mappers.pdb
+/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/Debug/net7.0/ref/MappingObjects.Mappers.dll

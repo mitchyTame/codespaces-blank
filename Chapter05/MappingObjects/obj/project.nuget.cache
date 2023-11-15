@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/180mqPzaMJx2YSt1EkuC/dmLGUUlrv9fUM79Q2N34An5qpB9Q0G1V2Yp1szqRtNMPtq2tPjAxSYrGItH+Lqw==",
+  "success": true,
+  "projectFilePath": "/workspaces/codespaces-blank/Chapter05/MappingObjects/MappingObjects.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

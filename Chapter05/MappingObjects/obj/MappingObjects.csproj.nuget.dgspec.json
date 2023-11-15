@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/codespaces-blank/Chapter05/MappingObjects/MappingObjects.csproj": {}
+  },
+  "projects": {
+    "/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/MappingObjects.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/MappingObjects.Mappers.csproj",
+        "projectName": "MappingObjects.Mappers",
+        "projectPath": "/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/MappingObjects.Mappers.csproj",
+        "packagesPath": "/home/vscode/.nuget/packages/",
+        "outputPath": "/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/MappingObjects.Models.csproj": {
+                "projectPath": "/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/MappingObjects.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/MappingObjects.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/MappingObjects.Models.csproj",
+        "projectName": "MappingObjects.Models",
+        "projectPath": "/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/MappingObjects.Models.csproj",
+        "packagesPath": "/home/vscode/.nuget/packages/",
+        "outputPath": "/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/workspaces/codespaces-blank/Chapter05/MappingObjects/MappingObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/codespaces-blank/Chapter05/MappingObjects/MappingObjects.csproj",
+        "projectName": "MappingObjects",
+        "projectPath": "/workspaces/codespaces-blank/Chapter05/MappingObjects/MappingObjects.csproj",
+        "packagesPath": "/home/vscode/.nuget/packages/",
+        "outputPath": "/workspaces/codespaces-blank/Chapter05/MappingObjects/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vscode/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/MappingObjects.Mappers.csproj": {
+                "projectPath": "/workspaces/codespaces-blank/Chapter05/MappingObects.Mappers/MappingObjects.Mappers.csproj"
+              },
+              "/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/MappingObjects.Models.csproj": {
+                "projectPath": "/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/MappingObjects.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

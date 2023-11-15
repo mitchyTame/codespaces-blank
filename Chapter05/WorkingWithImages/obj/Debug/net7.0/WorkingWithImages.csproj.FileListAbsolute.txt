@@ -1,0 +1,17 @@
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/bin/Debug/net7.0/WorkingWithImages
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/bin/Debug/net7.0/WorkingWithImages.deps.json
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/bin/Debug/net7.0/WorkingWithImages.runtimeconfig.json
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/bin/Debug/net7.0/WorkingWithImages.dll
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/bin/Debug/net7.0/WorkingWithImages.pdb
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/bin/Debug/net7.0/SixLabors.ImageSharp.dll
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.csproj.CopyComplete
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.dll
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/refint/WorkingWithImages.dll
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.pdb
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/WorkingWithImages.genruntimeconfig.cache
+/workspaces/codespaces-blank/Chapter05/WorkingWithImages/obj/Debug/net7.0/ref/WorkingWithImages.dll

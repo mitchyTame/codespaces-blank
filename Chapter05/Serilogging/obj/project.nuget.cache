@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oj3w1l0uV4FP1qkTL8ljRQ9em3xFpe+JiW1B1wAubbCFokcFAXXnTRjsUEwErIxeryN0SkKKVE9n2gNLa2WXbQ==",
+  "success": true,
+  "projectFilePath": "/workspaces/codespaces-blank/Chapter05/Serilogging/Serilogging.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/serilog/3.1.0/serilog.3.1.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/serilog.sinks.console/5.0.0/serilog.sinks.console.5.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

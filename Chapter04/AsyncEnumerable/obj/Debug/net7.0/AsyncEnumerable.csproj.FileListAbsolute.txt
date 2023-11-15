@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/bin/Debug/net7.0/AsyncEnumerable
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/bin/Debug/net7.0/AsyncEnumerable.deps.json
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/bin/Debug/net7.0/AsyncEnumerable.runtimeconfig.json
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/bin/Debug/net7.0/AsyncEnumerable.dll
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/bin/Debug/net7.0/AsyncEnumerable.pdb
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/AsyncEnumerable.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/AsyncEnumerable.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/AsyncEnumerable.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/AsyncEnumerable.dll
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/refint/AsyncEnumerable.dll
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/AsyncEnumerable.pdb
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/AsyncEnumerable.genruntimeconfig.cache
+/workspaces/codespaces-blank/Chapter04/AsyncEnumerable/obj/Debug/net7.0/ref/AsyncEnumerable.dll

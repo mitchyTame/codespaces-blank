@@ -1,0 +1,11 @@
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/bin/Debug/net7.0/MappingObjects.Models.deps.json
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/bin/Debug/net7.0/MappingObjects.Models.dll
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/bin/Debug/net7.0/MappingObjects.Models.pdb
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/Debug/net7.0/MappingObjects.Models.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/Debug/net7.0/MappingObjects.Models.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/Debug/net7.0/MappingObjects.Models.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/Debug/net7.0/MappingObjects.Models.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/Debug/net7.0/MappingObjects.Models.dll
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/Debug/net7.0/refint/MappingObjects.Models.dll
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/Debug/net7.0/MappingObjects.Models.pdb
+/workspaces/codespaces-blank/Chapter05/MappingObjects.Models/obj/Debug/net7.0/ref/MappingObjects.Models.dll

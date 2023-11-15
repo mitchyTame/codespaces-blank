@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/bin/Debug/net7.0/AsyncConsole
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/bin/Debug/net7.0/AsyncConsole.deps.json
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/bin/Debug/net7.0/AsyncConsole.runtimeconfig.json
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/bin/Debug/net7.0/AsyncConsole.dll
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/bin/Debug/net7.0/AsyncConsole.pdb
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/AsyncConsole.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/AsyncConsole.AssemblyInfo.cs
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/AsyncConsole.dll
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/refint/AsyncConsole.dll
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/AsyncConsole.pdb
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/AsyncConsole.genruntimeconfig.cache
+/workspaces/codespaces-blank/Chapter04/AsyncConsole/obj/Debug/net7.0/ref/AsyncConsole.dll
